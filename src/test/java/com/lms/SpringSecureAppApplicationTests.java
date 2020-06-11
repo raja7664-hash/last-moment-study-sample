@@ -1,4 +1,4 @@
-package com.spring.secureApp;
+package com.lms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
